@@ -1,6 +1,8 @@
-Task Manager
+<h1 align="center">Task Manager</h1>
 
-     A simple Task Manager application built with Python.
+<p align="center">
+  A simple Task Manager application built with Python.
+</p>
 
 Features
 
